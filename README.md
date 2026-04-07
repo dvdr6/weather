@@ -359,6 +359,10 @@ cd weather
  
 # 3. Open in your browser — that's literally it
 open index.html
+
+OR
+
+Just open github pages: (https://dvdr6.github.io/weather/)
 ```
  
 > No `npm install`. No `.env` file. No API key to paste anywhere.
